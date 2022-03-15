@@ -1,0 +1,30 @@
+* {
+    margin: o;
+    padding: o;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f6f8f9;
+}
+
+/* header */
+.logo{
+    vertical-align: middle;
+}
+
+h1{
+    display: inline-block;
+    vertical-align: middle;
+}
+header{
+    padding: 20px;
+    background-color: white;
+}
+/* main */
+.contenitore-task{
+    margin: 0 auto;
+    width: 800px;
+    background-color: white;
+    margin-top: 50px;
+}
